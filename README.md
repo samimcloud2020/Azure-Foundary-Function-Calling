@@ -3,6 +3,7 @@ http://api.weatherapi.com/v1/current.json?key=28c3a1218f3f459d8c615313250906&q=L
 
 
 Response Body
+
 {
     "location": {
         "name": "London",
